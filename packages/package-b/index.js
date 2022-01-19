@@ -1,3 +1,3 @@
-const packageA = require('package-a');
+import packageA from 'package-a';
 
 packageA('hello, world');
