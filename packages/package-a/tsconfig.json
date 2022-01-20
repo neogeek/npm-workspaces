@@ -9,5 +9,5 @@
     "strict": true
   },
   "include": ["./src"],
-  "exclude": ["./dist"]
+  "exclude": ["./dist", "**/*.test.ts"]
 }
